@@ -12,8 +12,8 @@ At Octelys, we specialize in crafting cloud-native applications, infrastructure 
 
 ## 🧰 Our Focus
 
-- ⚙️ **Infrastructure as Code (IaC)** using Terraform and Bicep
-- ☁️ **Cloud Solutions** with Azure, Kubernetes, and serverless architectures
+- ⚙️ **Infrastructure as Code (IaC)** using Terraform
+- ☁️ **Cloud Solutions** with Azure and AWS
 - 🔐 **Security-first Engineering**
 - 🧪 **CI/CD Pipelines** using GitHub Actions, Azure DevOps, and more
 - 📦 **Modular Reusable Components**
